@@ -1,0 +1,2 @@
+An activity stream app for Sprint.ly. It is a webapp, but all storage
+is local, and it never communicates information to any site but Sprint.ly.
